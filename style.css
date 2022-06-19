@@ -1,0 +1,39 @@
+
+
+.wm{
+    font-family: 'Times New Roman', Times, serif;
+    color: #031321;
+    font-size: 40px;
+    border-radius: 15px;   
+}
+
+.wmjudul{
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+img {
+    width: 500px;
+    border-radius: 35px;
+    padding-top: 15px;
+    float: center;
+}
+
+.txttag{
+    color: blue;
+    font-size: 13px;
+}
+
+.judul{
+    font-size: 30px;
+}
+
+div{
+    font-family: 'comic sans ms';
+    padding-top: 10px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+
